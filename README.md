@@ -16,5 +16,5 @@ You can then run the script in Dolphin by going to Tools -> Execute Script. If t
 
 ## To-Do
 
-Add the remaining versions of the game to the repository for more access.
-Add more scripts to make TASing and optimization much simpler. 
+- Add the remaining versions of the game to the repository for more access.
+- Add more scripts to make TASing and optimization much simpler. 
